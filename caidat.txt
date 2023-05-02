@@ -1,0 +1,6 @@
+npm install cả 3 thư mục
+npm install bcryptjs dotenv express express-async-handler jsonwebtoken mongoose morgan
+npm install -D concurrently nodemon
+sử dụng axios để tạo giao thức http requests từ nodejs
+admin123456
+mongodb+srv://admin:<password>@shoeshop.dhbwe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
